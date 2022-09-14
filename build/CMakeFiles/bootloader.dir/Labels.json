@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "H:/project/esp32/file_serving/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "H:/project/esp32/file_serving/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "H:/project/esp32/file_serving/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "H:/project/esp32/file_serving/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "H:/project/esp32/file_serving/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "H:/project/esp32/file_serving/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "H:/project/esp32/file_serving/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "H:/project/esp32/file_serving/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "H:/project/esp32/file_serving/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "H:/project/esp32/file_serving/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
